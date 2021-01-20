@@ -33,7 +33,7 @@ def insert_array():
         data[i] = newdata
         print(data)
 
-                                   //// Insert in to empty array
+                                   ## //// Insert in to empty array
 def insert_to_array():               
         data = []
         for i in range(2):
@@ -75,7 +75,7 @@ for i in range(4):
      for j in range(3):
           print(d[i] [j])
 
-                         /// Prints by row order
+                        ## /// Prints by row order
 b = [["a","b","xx"],
      ["c","d","yy"],
      ["c2","d2","yy2"],
